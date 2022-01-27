@@ -1,4 +1,4 @@
-## Student-Data-Management-
+## Student-Data-Management
 Making a database using C++!
 
 ## Challenge 
